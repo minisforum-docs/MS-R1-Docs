@@ -12,6 +12,7 @@ CP8180 支持 KVM，可实现高效虚拟化，同时支持 PCIe 直通（passth
 ## 如何使用 MS-R1
 - [如何安装 PVE](./MS-R1-How-To-Install-PVE.md)
 - [如何在 Docker 中运行 Android](./MS-R1-How-To-Run-Android-In-Docker.md)
+- [如何在 Docker 中运行 Jellyfin](./MS-R1-Jellyfin-Docker-Compose.md)
 
 ## 基本信息
 

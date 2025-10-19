@@ -13,7 +13,8 @@ CP8180 supported KVM which allows highly efficient virtualization. It's also sup
 
 ## How To Play MS-R1
 - [How to Install PVE](../PlayBook/MS-R1-How-To-Install-PVE.md)
-- [How To Run Android In Docker](../PlayBook/MS-R1-How-To-Run-Android-In-Docker.md)
+- [How To Run Android Use Docker](../PlayBook/MS-R1-How-To-Run-Android-In-Docker.md)
+- [How To Run Jellyfin Use Docker](../PlayBook/MS-R1-Jellyfin-Docker-Compose.md)
 
 ## Basic Information
 

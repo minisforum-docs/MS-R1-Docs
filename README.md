@@ -8,6 +8,7 @@ Documentation and playbooks for the Minisforum MS-R1 — installation, configura
 - [Base Guide](/PlayBook/MS-R1-BaseGuide.md) — Overview, hardware, BIOS/firmware tips
 - [How to Install PVE](/PlayBook/MS-R1-How-To-Install-PVE.md) — Proxmox VE installation and setup
 - [How To Run Android In Docker](/PlayBook/MS-R1-How-To-Run-Android-In-Docker.md) — Containerized Android walkthrough
+- [How To Run Jellyfin Use Docker](../PlayBook/MS-R1-Jellyfin-Docker-Compose.md) — Run Jellyfin with hardwware encode and decode
 
 ## Other language versions
 
