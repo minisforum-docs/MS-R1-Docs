@@ -91,9 +91,9 @@ https://github.com/viarotel-org/escrcpy/releases/
 例如：  
 | 系统与架构 | 下载文件名 |
 |----------|--------------|
-| Windows PC | Escrcpy-1.32.1-win-setup-arm64.exe |
-| 旧款 x86 Mac | Escrcpy-1.32.2-mac-x64.dmg | 
-| ARM 架构 Mac | scrcpy-macos-aarch64-v3.3.3.tar.gz | 
+| Windows X86 PC | [Escrcpy-1.32.1-win-setup-x64.exe](https://github.com/viarotel-org/escrcpy/releases/download/v1.32.1/Escrcpy-1.32.1-win-setup-x64.exe)|
+| Old X86 Mac |  [Escrcpy-1.32.1-mac-x64.dmg](https://github.com/viarotel-org/escrcpy/releases/download/v1.32.1/Escrcpy-1.32.1-mac-x64.dmg) | 
+| ARM Based Mac | [Escrcpy-1.32.1-mac-arm64.dmg](https://github.com/viarotel-org/escrcpy/releases/download/v1.32.1/Escrcpy-1.32.1-mac-arm64.dmg) | 
 
 在连接界面输入你的 IP 地址。端口 = 10000 +（容器编号）。例如：
 

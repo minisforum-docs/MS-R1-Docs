@@ -92,9 +92,9 @@ Download lastest Escrcpy by your system and architecture and install it.
 For example:  
 | ARCH and System | Download File Name |
 |----------|--------------|
-| Windows PC | Escrcpy-1.32.1-win-setup-arm64.exe |
-| Old X86 Mac |  Escrcpy-1.32.2-mac-x64.dmg | 
-| ARM based Mac | scrcpy-macos-aarch64-v3.3.3.tar.gz | 
+| Windows X86 PC | [Escrcpy-1.32.1-win-setup-x64.exe](https://github.com/viarotel-org/escrcpy/releases/download/v1.32.1/Escrcpy-1.32.1-win-setup-x64.exe)|
+| Old X86 Mac |  [Escrcpy-1.32.1-mac-x64.dmg](https://github.com/viarotel-org/escrcpy/releases/download/v1.32.1/Escrcpy-1.32.1-mac-x64.dmg) | 
+| ARM based Mac | [Escrcpy-1.32.1-mac-arm64.dmg](https://github.com/viarotel-org/escrcpy/releases/download/v1.32.1/Escrcpy-1.32.1-mac-arm64.dmg) | 
 
 In connect menu input your ip addr. 
 Port = 10000 + (Container numer)
