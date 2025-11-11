@@ -2,7 +2,6 @@
 
 Documentation and playbooks for the Minisforum MS-R1 — installation, configuration, and useful how-tos.
 
-
 ## Index (main guides)
 
 - [Base Guide](/PlayBook/MS-R1-BaseGuide.md) — Overview, hardware, BIOS/firmware tips
@@ -13,9 +12,10 @@ Documentation and playbooks for the Minisforum MS-R1 — installation, configura
 
 ## Other language versions
 
-| Language | Link |
-| -------- | ---- |
-| Chinese  | [中文版](/PlayBook/Chinese/MS-R1-BaseGuide.md) |
+| Language | Link                                            |
+| -------- | ----------------------------------------------- |
+| Chinese  | [中文版](/PlayBook/Chinese/MS-R1-BaseGuide.md)  |
+| Korean   | [한국어판](/PlayBook/Korean/MS-R1-BaseGuide.md) |
 
 ## Contributing
 
@@ -27,11 +27,11 @@ Documentation and playbooks for the Minisforum MS-R1 — installation, configura
 ## Support & Issues
 
 Open an issue for bugs, missing steps, or platform-specific problems. Include:
+
 - OS / firmware version
 - The exact command and output (copy/paste)
 - Which guide you followed
 
 ## License
-
 
 MIT License
