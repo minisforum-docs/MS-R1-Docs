@@ -22,10 +22,10 @@ PCIe 패스스루 기능 역시 지원합니다.
 
 ## 기본 정보
 
-### 기본 username / password
+### 기본 로그인 정보
 
-- Username: `mini`
-- Password: `mini`
+- 사용자 이름: `mini`
+- 비밀번호: `mini`
 
 ### I/O 포트
 
