@@ -48,9 +48,9 @@ MS-R1은 표준 UEFI BIOS를 사용하며, 모든 UEFI 호환 시스템 ISO를 �
 
 ### 관련 문서
 
-- [MS-R1 기본 가이드](./MS-R1-BaseGuide.md)
-- [PVE 설치 방법](./MS-R1-How-To-Install-PVE.md)
-- [Docker를 통한 안드로이드 실행 방법](./MS-R1-How-To-Run-Android-In-Docker.md)
+- [MS-R1 기본 가이드](../PlayBook/MS-R1-BaseGuide.md)
+- [PVE 설치 방법](../PlayBook/MS-R1-How-To-Install-PVE.md)
+- [Docker를 통한 안드로이드 실행 방법](../PlayBook/MS-R1-How-To-Run-Android-In-Docker.md)
 
 > **경고**  
 > 시스템 설치를 진행하기 전에 모든 중요한 데이터를 반드시 백업하십시오.

@@ -17,7 +17,7 @@ PCIe 패스스루 기능 역시 지원합니다.
 
 - [PVE 설치 방법](./MS-R1-How-To-Install-PVE.md)
 - [OS 재설치 방법](./MS-R1-How-To-Reinstall-OS.md)
-- [Docker를 통한 안드로이드 실행 방법](./MS-R1-How-To-Run-Android-In-Docker.mdMS-R1-How-To-Run-Android-In-Docker.md)
+- [Docker를 통한 안드로이드 실행 방법](./MS-R1-How-To-Run-Android-In-Docker.md)
 - [Docker를 통한 Jellyfin 실행 방법](./MS-R1-Jellyfin-Docker-Compose.md)
 
 ## 기본 정보
