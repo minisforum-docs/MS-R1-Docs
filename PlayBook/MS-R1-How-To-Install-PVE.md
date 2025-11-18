@@ -70,11 +70,9 @@ Example contents:
 Make sure you added the line with your host IP and hostname (example: `192.168.32.116 mini-localhost`).
 
 #### 3.2 Disable NetworkManager and use ifupdown2
-> **Note**
-> Change the network manager only to use the PVE network configuration. You can keep Debian's NetworkManager if you prefer, but network changes then must be done via the desktop network panel.
->
 > **Warning**
-> If you don't understand this step, skip 3.2.
+> Enabling full vmbr networking functionality in Proxmox VE (PVE) requires migrating the network configuration to ifupdown2. Otherwise, you will not be able to add any network devices within PVE.
+
 
 PVE uses ifupdown2. Disable NetworkManager and install ifupdown2:
 ```bash
