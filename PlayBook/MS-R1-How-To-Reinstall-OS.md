@@ -16,7 +16,9 @@ The MS-R1 uses a standard UEFI BIOS that can boot any UEFI-compatible system ISO
 
 ### 1. Download System Image
 
-Latest version: `MS-R1-2025101202-0003301.7z`
+Latest stable version: `MS-R1-2025101202-0003301.7z`
+
+For better idle power: `2025-11-15-PowerSAVE`
 
 Download from: [Google Drive Link](https://drive.google.com/drive/folders/1FzjO50RYqKi-BIOYH2wduRYeeju-MRIU?usp=drive_link)
 
