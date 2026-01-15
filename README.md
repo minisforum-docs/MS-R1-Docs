@@ -8,9 +8,9 @@ Documentation and playbooks for the Minisforum MS-R1 — installation, configura
 - [How To Reinstall OS](/PlayBook/MS-R1-How-To-Reinstall-OS.md) — Reinstall OS
 - [How To Install PVE](/PlayBook/MS-R1-How-To-Install-PVE.md) — Proxmox VE installation and setup
 - [How To Run Android In Docker](/PlayBook/MS-R1-How-To-Run-Android-In-Docker.md) — Containerized Android walkthrough
-- [How To Run Jellyfin Use Docker](../PlayBook/MS-R1-Jellyfin-Docker-Compose.md) — Run Jellyfin with hardwware encode and decode
-- [CPU Debug Commands](../PlayBook/MS-R1-DebugCommands.md) - Some Debug Command(Only Available In Offical System)
-- [Optimize Idle Power](../PlayBook/MS-R1-IdlePower.md) - Show Idle Power And Optimized Idle Power
+- [How To Run Jellyfin Use Docker](/PlayBook/MS-R1-Jellyfin-Docker-Compose.md) — Run Jellyfin with hardwware encode and decode
+- [CPU Debug Commands](/PlayBook/MS-R1-DebugCommands.md) - Some Debug Command(Only Available In Offical System)
+- [Optimize Idle Power](/PlayBook/MS-R1-IdlePower.md) - Show Idle Power And Optimized Idle Power
 
 ## Other language versions
 
