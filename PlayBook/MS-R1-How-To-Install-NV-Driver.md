@@ -14,7 +14,7 @@ apt autoremove cix-libglvnd
 # Stop GDM, NV's driver will upgrade GPU libs.
 systemctl stop gdm
 ```
-### Install cix-genksyms.den
+### Install cix-genksyms.deb
 Download "cix-genksyms.deb" from: [Google Drive Link](https://drive.google.com/file/d/1XN1P79it_PzAe9HzKx4KSFkSsUpJ542X/view?usp=drive_link)  
 
 Upload it and install it.
