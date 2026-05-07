@@ -18,6 +18,7 @@ CP8180 supported KVM which allows highly efficient virtualization. It's also sup
 - [How To Run Jellyfin Use Docker](../PlayBook/MS-R1-Jellyfin-Docker-Compose.md)
 - [CPU Debug Commands](../PlayBook/MS-R1-DebugCommands.md)
 - [Optimize Idle Power](../PlayBook/MS-R1-IdlePower.md)
+- [ARM SystemReady OS and BIOS](../PlayBook/MS-R1-ARMSystemReady.md)
 
 ## Basic Information
 

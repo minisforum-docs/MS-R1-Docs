@@ -16,6 +16,7 @@ CP8180 支持 KVM，可实现高效虚拟化，同时支持 PCIe 直通（passth
 - [如何在 Docker 中运行 Jellyfin](./MS-R1-Jellyfin-Docker-Compose.md)
 - [CPU DEBUG命令](.MS-R1-DebugCommands.md)
 - [优化待机功耗](./MS-R1-IdlePower.md)
+- [ARM System Ready专用的OS和BIOS](./MS-R1-ARMSystemReady.md)
 
 
 I notice the content you've shared in the `<selection>` section is already in Chinese (with some English sections mixed in). The section appears to be well-suited for placement at the `$SELECTION_PLACEHOLDER$` location in your document.
