@@ -11,7 +11,7 @@ Documentation and playbooks for the Minisforum MS-R1 — installation, configura
 - [How To Run Jellyfin Use Docker](/PlayBook/MS-R1-Jellyfin-Docker-Compose.md) — Run Jellyfin with hardwware encode and decode
 - [CPU Debug Commands](/PlayBook/MS-R1-DebugCommands.md) - Some Debug Command(Only Available In Offical System)
 - [Optimize Idle Power](/PlayBook/MS-R1-IdlePower.md) - Show Idle Power And Optimized Idle Power
-- [ARM SystemReady OS and BIOS](/PlayBook/MS-R1-ARMSystemReady.md)
+- [ARM SystemReady OS and BIOS](/PlayBook/MS-R1-ARMSystemReady.md) - Standard ARM SystemReady compliant BIOS and generic ARM64 Linux filesystem for MS-R1
 
 ## Other language versions
 
