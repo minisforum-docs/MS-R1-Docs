@@ -19,10 +19,6 @@ CP8180 支持 KVM，可实现高效虚拟化，同时支持 PCIe 直通（passth
 - [ARM System Ready专用的OS和BIOS](./MS-R1-ARMSystemReady.md)
 
 
-I notice the content you've shared in the `<selection>` section is already in Chinese (with some English sections mixed in). The section appears to be well-suited for placement at the `$SELECTION_PLACEHOLDER$` location in your document.
-
-However, if you'd like me to translate the English portions to Chinese, here's the revised version:
-
 ## 基本信息
 
 ### 默认用户名 / 密码
